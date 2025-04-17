@@ -1,6 +1,9 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #000000;
     font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
 }
 h1 {
     color: #333;
@@ -8,7 +11,7 @@ h1 {
     margin-top: 20px;
 }
 p {
-    color: #555;
+    color: #ffffff;
     line-height: 1.6;
     margin: 20px;
 }   
@@ -17,4 +20,8 @@ li {
     line-height: 1.6;
     margin: 20px;
     list-style-type: square;
+}
+ul {
+    margin: 20px;
+    padding-left: 40px;
 }
