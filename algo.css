@@ -97,7 +97,7 @@ ul {
     justify-content: center; 
     align-items: center; 
     height: 100vh; 
-    animation: spin 5s linear infinite;
+    animation: spin 100s linear infinite;
 }
 
 /*.box {
